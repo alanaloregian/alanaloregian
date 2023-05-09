@@ -1,4 +1,4 @@
-Olá, me chamo Alana e estou na milésima tentativa de escrever uam bio aqui!
+Olá, me chamo Alana e estou na milésima tentativa de escrever uma bio aqui!
 
 <!---
 alanaloregian/alanaloregian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
